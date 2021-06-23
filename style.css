@@ -534,7 +534,7 @@ filter: blur(30px);
 }
 .cantainer{
     height: 100vh;
-    width: 1000vh;
+    width: 205vh;
     background-image: url(bg1.jpg);
     background-size: cover;
    /* animation: slider 9s infinite linear;*/
